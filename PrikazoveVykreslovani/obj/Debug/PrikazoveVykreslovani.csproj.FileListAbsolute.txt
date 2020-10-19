@@ -1,0 +1,16 @@
+C:\Users\radek\source\repos\PVA_3ITB_2020-master\PrikazoveVykreslovani\bin\Debug\PrikazoveVykreslovani.exe.config
+C:\Users\radek\source\repos\PVA_3ITB_2020-master\PrikazoveVykreslovani\bin\Debug\PrikazoveVykreslovani.exe
+C:\Users\radek\source\repos\PVA_3ITB_2020-master\PrikazoveVykreslovani\bin\Debug\PrikazoveVykreslovani.pdb
+C:\Users\radek\source\repos\PVA_3ITB_2020-master\PrikazoveVykreslovani\obj\Debug\PrikazoveVykreslovani.csprojAssemblyReference.cache
+C:\Users\radek\source\repos\PVA_3ITB_2020-master\PrikazoveVykreslovani\obj\Debug\PrikazoveVykreslovani.Command.resources
+C:\Users\radek\source\repos\PVA_3ITB_2020-master\PrikazoveVykreslovani\obj\Debug\PrikazoveVykreslovani.CommandForm.resources
+C:\Users\radek\source\repos\PVA_3ITB_2020-master\PrikazoveVykreslovani\obj\Debug\PrikazoveVykreslovani.Form1.resources
+C:\Users\radek\source\repos\PVA_3ITB_2020-master\PrikazoveVykreslovani\obj\Debug\PrikazoveVykreslovani.GroupManager.resources
+C:\Users\radek\source\repos\PVA_3ITB_2020-master\PrikazoveVykreslovani\obj\Debug\PrikazoveVykreslovani.Properties.Resources.resources
+C:\Users\radek\source\repos\PVA_3ITB_2020-master\PrikazoveVykreslovani\obj\Debug\PrikazoveVykreslovani.csproj.GenerateResource.cache
+C:\Users\radek\source\repos\PVA_3ITB_2020-master\PrikazoveVykreslovani\obj\Debug\PrikazoveVykreslovani.exe
+C:\Users\radek\source\repos\PVA_3ITB_2020-master\PrikazoveVykreslovani\obj\Debug\PrikazoveVykreslovani.pdb
+C:\Users\radek\source\repos\PVA_3ITB_2020-master\PrikazoveVykreslovani\bin\Debug\Control.Draggable.dll
+C:\Users\radek\source\repos\PVA_3ITB_2020-master\PrikazoveVykreslovani\obj\Debug\PrikazoveVykreslovani.csproj.CopyComplete
+C:\Users\radek\source\repos\PVA_3ITB_2020-master\PrikazoveVykreslovani\obj\Debug\PrikazoveVykreslovani.GroupView.resources
+C:\Users\radek\source\repos\PVA_3ITB_2020-master\PrikazoveVykreslovani\obj\Debug\PrikazoveVykreslovani.Canvas.resources
